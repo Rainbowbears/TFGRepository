@@ -1348,3 +1348,10 @@ Make sure 'ThirdPersonCharacter_C' has been compiled for  Set ClimbTime
 [2022.05.29-08.32.36:582][ 55]AssetCheck: New page: Asset Save: multiple assets
 [2022.05.29-08.32.36:582][ 55]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2022.05.29-08.32.36:582][ 55]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.05.29-08.46.27:947][701]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.05.29-08.46.27:970][701]LogSavePackage: Moving '../../../../../TfGRepository/UnrealProject/Saved/ThirdPersonExampleMap63A1306B4B2114912ED86C94BFDCB35F.tmp' to '../../../../../TfGRepository/UnrealProject/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2022.05.29-08.46.28:076][701]LogSavePackage: Moving '../../../../../TfGRepository/UnrealProject/Saved/ThirdPersonExampleMap_BuiltData721E152A448573345B037CBD018C6796.tmp' to '../../../../../TfGRepository/UnrealProject/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.05.29-08.46.28:091][701]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.29-08.46.28:091][701]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.05.29-08.46.28:091][701]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.05.29-08.46.29:034][812]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
