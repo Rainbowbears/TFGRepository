@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\TfGRepository\\UnrealProject\\Source\\UnrealProject\\UnrealProject.Build.cs",
-		"D:\\TfGRepository\\UnrealProject\\Source\\UnrealProject.Target.cs",
-		"D:\\TfGRepository\\UnrealProject\\Source\\UnrealProjectEditor.Target.cs"
-	],
-	"EngineVersion": "4.26.2"
-}
