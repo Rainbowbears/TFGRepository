@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\ayugu\\desktop\\proyectos unreal\\babelship\\intermediate\\build\\win64\\unrealeditor\\inc\\babelship\\babelship.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ayugu\\desktop\\proyectos unreal\\babelship\\intermediate\\build\\win64\\babelshipeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\ayugu\\desktop\\proyectos unreal\\babelship\\intermediate\\build\\win64\\unrealeditor\\development\\babelship\\definitions.babelship.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

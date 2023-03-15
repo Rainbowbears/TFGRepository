@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Babelship",
+			"Path": "C:\\Users\\Ayugu\\Desktop\\Proyectos Unreal\\Babelship\\Source\\Babelship.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BabelshipEditor",
+			"Path": "C:\\Users\\Ayugu\\Desktop\\Proyectos Unreal\\Babelship\\Source\\BabelshipEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
