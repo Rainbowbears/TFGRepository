@@ -1,19 +1,19 @@
 {
-    "Version": "1.2",
+    "Version": "1.1",
     "Data": {
-        "Source": "c:\\users\\usuario\\desktop\\proyectos unreal\\tfgbabelship\\babelship\\intermediate\\build\\win64\\unrealeditor\\inc\\babelship\\babelshipcharacter.gen.cpp",
+        "Source": "c:\\users\\ayugu\\desktop\\proyectos unreal\\babelship\\intermediate\\build\\win64\\unrealeditor\\inc\\babelship\\babelshipcharacter.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\usuario\\desktop\\proyectos unreal\\tfgbabelship\\babelship\\intermediate\\build\\win64\\babelshipeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "c:\\users\\ayugu\\desktop\\proyectos unreal\\babelship\\intermediate\\build\\win64\\babelshipeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "c:\\users\\usuario\\desktop\\proyectos unreal\\tfgbabelship\\babelship\\intermediate\\build\\win64\\unrealeditor\\development\\babelship\\definitions.babelship.h",
-            "c:\\users\\usuario\\desktop\\proyectos unreal\\tfgbabelship\\babelship\\source\\babelship\\babelshipcharacter.h",
-            "e:\\descargas programas\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
-            "e:\\descargas programas\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
-            "e:\\descargas programas\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
-            "e:\\descargas programas\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
-            "e:\\descargas programas\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
-            "e:\\descargas programas\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
-            "c:\\users\\usuario\\desktop\\proyectos unreal\\tfgbabelship\\babelship\\intermediate\\build\\win64\\unrealeditor\\inc\\babelship\\babelshipcharacter.generated.h"
+            "c:\\users\\ayugu\\desktop\\proyectos unreal\\babelship\\intermediate\\build\\win64\\unrealeditor\\development\\babelship\\definitions.babelship.h",
+            "c:\\users\\ayugu\\desktop\\proyectos unreal\\babelship\\source\\babelship\\babelshipcharacter.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "c:\\users\\ayugu\\desktop\\proyectos unreal\\babelship\\intermediate\\build\\win64\\unrealeditor\\inc\\babelship\\babelshipcharacter.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
