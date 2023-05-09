@@ -7,8 +7,11 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\Usuario\Desktop\Proyectos unreal\TFGBabelship\Babelship\Intermediate\Build\Win64\BabelshipEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Usuario\Desktop\Proyectos unreal\TFGBabelship\Babelship\Intermediate\Build\Win64\UnrealEditor\Development\Babelship\AIFactory.cpp.obj"
+"C:\Users\Usuario\Desktop\Proyectos unreal\TFGBabelship\Babelship\Intermediate\Build\Win64\UnrealEditor\Development\Babelship\AIMeshGenerator.cpp.obj"
 "C:\Users\Usuario\Desktop\Proyectos unreal\TFGBabelship\Babelship\Intermediate\Build\Win64\UnrealEditor\Development\Babelship\BabelshipPlayerController.cpp.obj"
 "C:\Users\Usuario\Desktop\Proyectos unreal\TFGBabelship\Babelship\Intermediate\Build\Win64\UnrealEditor\Development\Babelship\ComputeShader.cpp.obj"
+"C:\Users\Usuario\Desktop\Proyectos unreal\TFGBabelship\Babelship\Intermediate\Build\Win64\UnrealEditor\Development\Babelship\RoutePoint.cpp.obj"
 "C:\Users\Usuario\Desktop\Proyectos unreal\TFGBabelship\Babelship\Intermediate\Build\Win64\UnrealEditor\Development\Babelship\Widget_dialog.cpp.obj"
 "C:\Users\Usuario\Desktop\Proyectos unreal\TFGBabelship\Babelship\Intermediate\Build\Win64\UnrealEditor\Development\Babelship\Babelship.cpp.obj"
 "C:\Users\Usuario\Desktop\Proyectos unreal\TFGBabelship\Babelship\Intermediate\Build\Win64\UnrealEditor\Development\Babelship\BabelshipCharacter.cpp.obj"
@@ -17,9 +20,6 @@
 "C:\Users\Usuario\Desktop\Proyectos unreal\TFGBabelship\Babelship\Intermediate\Build\Win64\UnrealEditor\Development\Babelship\MyClass.cpp.obj"
 "C:\Users\Usuario\Desktop\Proyectos unreal\TFGBabelship\Babelship\Intermediate\Build\Win64\UnrealEditor\Development\Babelship\TP_PickUpComponent.cpp.obj"
 "C:\Users\Usuario\Desktop\Proyectos unreal\TFGBabelship\Babelship\Intermediate\Build\Win64\UnrealEditor\Development\Babelship\TP_WeaponComponent.cpp.obj"
-"C:\Users\Usuario\Desktop\Proyectos unreal\TFGBabelship\Babelship\Intermediate\Build\Win64\UnrealEditor\Development\Babelship\AIFactory.cpp.obj"
-"C:\Users\Usuario\Desktop\Proyectos unreal\TFGBabelship\Babelship\Intermediate\Build\Win64\UnrealEditor\Development\Babelship\AIMeshGenerator.cpp.obj"
-"C:\Users\Usuario\Desktop\Proyectos unreal\TFGBabelship\Babelship\Intermediate\Build\Win64\UnrealEditor\Development\Babelship\RoutePoint.cpp.obj"
 "C:\Users\Usuario\Desktop\Proyectos unreal\TFGBabelship\Babelship\Intermediate\Build\Win64\UnrealEditor\Development\Babelship\AIMeshGenerator.gen.cpp.obj"
 "C:\Users\Usuario\Desktop\Proyectos unreal\TFGBabelship\Babelship\Intermediate\Build\Win64\UnrealEditor\Development\Babelship\Babelship.init.gen.cpp.obj"
 "C:\Users\Usuario\Desktop\Proyectos unreal\TFGBabelship\Babelship\Intermediate\Build\Win64\UnrealEditor\Development\Babelship\BabelshipCharacter.gen.cpp.obj"

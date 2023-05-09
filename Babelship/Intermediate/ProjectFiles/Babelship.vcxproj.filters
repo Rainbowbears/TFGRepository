@@ -120,4 +120,14 @@
       <Filter>Source\Babelship\Public</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Babelship\Public\AIFactory.h">
+      <Filter>Source\Babelship\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Babelship\Private\AIFactory.cpp">
+      <Filter>Source\Babelship\Private</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
