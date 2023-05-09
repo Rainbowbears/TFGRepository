@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\usuario\\desktop\\proyectos unreal\\tfgbabelship\\babelship\\source\\babelship\\private\\routepoint.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\usuario\\desktop\\proyectos unreal\\tfgbabelship\\babelship\\intermediate\\build\\win64\\babelshipeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\usuario\\desktop\\proyectos unreal\\tfgbabelship\\babelship\\intermediate\\build\\win64\\unrealeditor\\development\\babelship\\definitions.babelship.h",
+            "c:\\users\\usuario\\desktop\\proyectos unreal\\tfgbabelship\\babelship\\source\\babelship\\public\\routepoint.h",
+            "e:\\descargas programas\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\targetpoint.h",
+            "e:\\descargas programas\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\targetpoint.generated.h",
+            "c:\\users\\usuario\\desktop\\proyectos unreal\\tfgbabelship\\babelship\\intermediate\\build\\win64\\unrealeditor\\inc\\babelship\\routepoint.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

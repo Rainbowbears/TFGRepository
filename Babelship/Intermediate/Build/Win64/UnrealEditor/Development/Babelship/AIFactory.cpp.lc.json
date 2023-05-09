@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\usuario\\desktop\\proyectos unreal\\tfgbabelship\\babelship\\source\\babelship\\private\\aifactory.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\usuario\\desktop\\proyectos unreal\\tfgbabelship\\babelship\\intermediate\\build\\win64\\babelshipeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\usuario\\desktop\\proyectos unreal\\tfgbabelship\\babelship\\intermediate\\build\\win64\\unrealeditor\\development\\babelship\\definitions.babelship.h",
+            "c:\\users\\usuario\\desktop\\proyectos unreal\\tfgbabelship\\babelship\\source\\babelship\\public\\aifactory.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\usuario\\desktop\\proyectos unreal\\tfgbabelship\\babelship\\source\\babelship\\private\\babelshipplayercontroller.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\usuario\\desktop\\proyectos unreal\\tfgbabelship\\babelship\\intermediate\\build\\win64\\babelshipeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\usuario\\desktop\\proyectos unreal\\tfgbabelship\\babelship\\intermediate\\build\\win64\\unrealeditor\\development\\babelship\\definitions.babelship.h",
+            "c:\\users\\usuario\\desktop\\proyectos unreal\\tfgbabelship\\babelship\\source\\babelship\\public\\babelshipplayercontroller.h",
+            "c:\\users\\usuario\\desktop\\proyectos unreal\\tfgbabelship\\babelship\\intermediate\\build\\win64\\unrealeditor\\inc\\babelship\\babelshipplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
