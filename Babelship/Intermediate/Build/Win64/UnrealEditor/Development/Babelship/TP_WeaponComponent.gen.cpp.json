@@ -1,13 +1,13 @@
 {
-    "Version": "1.2",
+    "Version": "1.1",
     "Data": {
-        "Source": "c:\\users\\usuario\\desktop\\proyectos unreal\\tfgbabelship\\babelship\\intermediate\\build\\win64\\unrealeditor\\inc\\babelship\\tp_weaponcomponent.gen.cpp",
+        "Source": "c:\\users\\ayugu\\documents\\github\\tfgrepository\\babelship\\intermediate\\build\\win64\\unrealeditor\\inc\\babelship\\tp_weaponcomponent.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\usuario\\desktop\\proyectos unreal\\tfgbabelship\\babelship\\intermediate\\build\\win64\\babelshipeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "c:\\users\\ayugu\\documents\\github\\tfgrepository\\babelship\\intermediate\\build\\win64\\babelshipeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "c:\\users\\usuario\\desktop\\proyectos unreal\\tfgbabelship\\babelship\\intermediate\\build\\win64\\unrealeditor\\development\\babelship\\definitions.babelship.h",
-            "c:\\users\\usuario\\desktop\\proyectos unreal\\tfgbabelship\\babelship\\source\\babelship\\tp_weaponcomponent.h",
-            "c:\\users\\usuario\\desktop\\proyectos unreal\\tfgbabelship\\babelship\\intermediate\\build\\win64\\unrealeditor\\inc\\babelship\\tp_weaponcomponent.generated.h"
+            "c:\\users\\ayugu\\documents\\github\\tfgrepository\\babelship\\intermediate\\build\\win64\\unrealeditor\\development\\babelship\\definitions.babelship.h",
+            "c:\\users\\ayugu\\documents\\github\\tfgrepository\\babelship\\source\\babelship\\tp_weaponcomponent.h",
+            "c:\\users\\ayugu\\documents\\github\\tfgrepository\\babelship\\intermediate\\build\\win64\\unrealeditor\\inc\\babelship\\tp_weaponcomponent.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Usuario\\Desktop\\Proyectos unreal\\TFGBabelship\\Babelship\\Source\\Babelship\\Babelship.Build.cs",
-		"C:\\Users\\Usuario\\Desktop\\Proyectos unreal\\TFGBabelship\\Babelship\\Source\\Babelship.Target.cs",
-		"C:\\Users\\Usuario\\Desktop\\Proyectos unreal\\TFGBabelship\\Babelship\\Source\\BabelshipEditor.Target.cs"
+		"C:\\Users\\Ayugu\\Documents\\GitHub\\TFGRepository\\Babelship\\Source\\Babelship\\Babelship.Build.cs",
+		"C:\\Users\\Ayugu\\Documents\\GitHub\\TFGRepository\\Babelship\\Source\\Babelship.Target.cs",
+		"C:\\Users\\Ayugu\\Documents\\GitHub\\TFGRepository\\Babelship\\Source\\BabelshipEditor.Target.cs"
 	],
 	"EngineVersion": "5.0.3"
 }
